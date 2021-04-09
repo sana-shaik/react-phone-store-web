@@ -1,0 +1,6 @@
+{
+    "parser": "babel-eslint"
+    // "extends": ["airbnb"]
+    // "react/display-name": [0, { "ignoreTranspilerName": true }]
+  }
+  
